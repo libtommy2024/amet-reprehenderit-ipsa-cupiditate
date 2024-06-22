@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/amet-reprehenderit-ipsa-cupiditate",
-  "version": "2.6.53",
+  "version": "2.6.54",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -510,5 +510,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/amet-reprehenderit-ipsa-cupiditate/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
